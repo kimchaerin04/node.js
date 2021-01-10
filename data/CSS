@@ -1,0 +1,15 @@
+<p>
+  Cascading Style Sheets (CSS) are the languages that describe how the markup language is actually displayed [1],
+  and are often used in HTML and XHTML, and are also available in XML.
+  It is the standard for W3C and has a high degree of freedom in defining layouts and styles.
+</p>
+<p>
+  If the markup language (e.g. HTML) is responsible for the body of the website,
+  CSS is responsible for decorating the website like clothes and accessories.
+  In other words, changing the CSS file, while leaving the HTML structure intact,
+  can be done like a completely different website.
+</p>
+<p>
+  For the CSS3, currently under development, features have been added to replace images
+  produced by graphic editing programs such as shadow effects, gradients, and deformation. In addition,
+  various animation features have been added, replacing Adobe Flash to some extent.
